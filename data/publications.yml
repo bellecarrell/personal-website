@@ -1,0 +1,14 @@
+name: Publications
+source:
+  - icon: fa fa-file-pdf-o
+    href: http://ceur-ws.org/Vol-2127/paper3-kg4ir.pdf
+    name: Summarizing Entities using Distantly Supervised Information Extractors
+    description: 'ProfS/KG4IR/Data: Search@ SIGIR, 51-58. July 2018'
+    authors: Travis Wolfe, Annabelle Carrell, Mark Dredze, Benjamin Van Durme
+  - icon: fa fa-file-pdf-o
+    href: http://www.aclweb.org/anthology/W18-1107
+    name: Observational Comparison of Geo-tagged and Randomly-drawn Tweets
+    description: 'Proceedings of the Second Workshop on Computational Modeling of People’s Opinions, Personality, and Emotions in Social Media. NAACL, June 2018'
+    authors: Tom Lippincott, Annabelle Carrell
+
+  
