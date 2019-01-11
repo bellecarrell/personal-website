@@ -4,3 +4,7 @@
 [submodule "hugo-resume"]
 	path = hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume
+[submodule "public"]
+	path = public
+	url = git@github.com:bellecarrell/bellecarrell.github.io.git
+	branch = master
