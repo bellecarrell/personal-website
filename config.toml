@@ -11,9 +11,9 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "profile.png"
+  avatar = "resume.png"
   author = "Annabelle"
-  description = "Describe your website"
+  description = "Annabelle's digital footprint"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -26,11 +26,6 @@ theme = "hugo-sustain"
   LinkedIn      = "annabelle-carrell-797038b7"
 
 ## Main Menu
-[[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
 [[menu.main]]
   name = "publications"
   identifier = "publications"

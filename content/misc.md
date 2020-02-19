@@ -10,11 +10,11 @@ I have few lifetime favorites, but I always have a lot of recent favorites. Here
 
 - book: [To the Lighthouse](https://en.wikipedia.org/wiki/To_the_Lighthouse) (Virginia Woolf had an amazing understanding of the diversity of human perspective)
 
-- song: [thank u, next](https://www.youtube.com/watch?v=gl1aHhXnN1k) (I love Ari)
+- song: [929](https://www.youtube.com/watch?v=OLw90Ofj5mw) (Badlands is still my favorite Halsey album, though.)
 
-- movie: [Suspiria (2018)](https://www.imdb.com/title/tt1034415/) (kidding, couldn't even watch the whole thing)
+- TV show: [Search Party](https://en.wikipedia.org/wiki/Search_Party_(TV_series) ) (It lined up well with my own restlessness at the time of watching.)
 
-- exercise: [Bulgarian Split Squat](https://www.muscleforlife.com/bulgarian-split-squat/) (great for someone like me who has underdeveloped hamstrings)
+- exercise: [Bulgarian Split Squat](https://www.muscleforlife.com/bulgarian-split-squat/) (It's a great exercise for people with underdeveloped hamstrings, like me.)
 
 ### Popular Annabelles
 While my name has seen a [rise in popularity](https://www.behindthename.com/name/annabelle/top) in recent years, it isn't exactly a 'John Smith' of English language names. For reference, a few popular Annabelles in media are:
