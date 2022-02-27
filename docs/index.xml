@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annabelle Carrell</title>
+    <link>https://bellecarrell.github.io/</link>
+    <description>Recent content on Annabelle Carrell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Dec 2018 15:30:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://bellecarrell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Misc</title>
+      <link>https://bellecarrell.github.io/misc/</link>
+      <pubDate>Sat, 29 Dec 2018 15:30:40 -0500</pubDate>
+      
+      <guid>https://bellecarrell.github.io/misc/</guid>
+      <description>A few of my (current) favorite things I have few lifetime favorites, but I always have a lot of recent favorites. Here are some:
+ book: To the Lighthouse (Virginia Woolf had an amazing understanding of the diversity of human perspective)
+ song: 929 (Badlands is still my favorite Halsey album, though.)
+ TV show: Search Party (It lined up well with my own restlessness at the time of watching.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bellecarrell.github.io/about/</link>
+      <pubDate>Fri, 28 Dec 2018 15:12:13 -0500</pubDate>
+      
+      <guid>https://bellecarrell.github.io/about/</guid>
+      <description>I&amp;rsquo;m a PhD student at the University of Cambridge, advised by Ferenc Huszar and Sebastian Nowozin. I&amp;rsquo;m generously funded by Microsoft through an i-CASE fellowship.
+I am interested in machine learning, specifically the science of deep learning, as well as what deep learning can enable in other fields, such as physics and mathematics.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://bellecarrell.github.io/publications/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://bellecarrell.github.io/publications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
